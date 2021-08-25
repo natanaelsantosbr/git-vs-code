@@ -1,7 +1,9 @@
 Controle de versão
 
 git config --global user.name "Natanael"
-git config --global user.email = "natanaelsantosbr@gmail.com"
+git config --global user.email --replace-all "natanaelsantosbr@gmail.com"
+
+testando
 
 Controle de versão local
     Setup
