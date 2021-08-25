@@ -1,0 +1,13 @@
+Controle de versão
+
+Controle de versão local
+    Setup
+        git init
+        dir -force
+        dotnet new gitignore
+    Versionando o projeto
+        git add NomeDoArquivo
+        git .
+        git status
+        git commit -m "Mensagem"
+        git log
